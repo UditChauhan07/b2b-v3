@@ -66843,8 +66843,8 @@ else{A.b9(a5)
 a=l*0.45}p=A.a_(A.T(A.b([j,g,f,A.r(a1,A.T(A.b([c,A.T(A.b([A.r(a1,new A.bF(new A.a1(i,0,i,0),A.T(A.b([B.d2,B.d2,A.a_(A.axj(a1,new A.aW7(a0,a4),a0.y.length),a,a1)],n),B.i,B.k,B.f),a1),B.h,a1,a1,a1,a1,l*0.5,a1,new A.a1(0,0,0,b),a1,a1,a1,a1)],n),B.i,B.k,B.f)],n),B.i,B.k,B.f),B.h,a1,a1,B.d8,a1,a1,a1,new A.a1(0,h,0,0),a1,a1,a1,e)],n),B.C,B.k,B.f),a1,p)
 e=A.a_(a1,a1,i)
 if(A.K(a5,a1,a3).w.a.a<985)j=s*0.6
-else{A.b9(a5)
-j=s*0.6}h=A.c1(5)
+else j=A.b9(a5)?s*0.58:s*0.6
+h=A.c1(5)
 g=a0.aX
 if(A.K(a5,a1,a3).w.a.a<985)f=a2
 else f=A.b9(a5)?a2:s*0.6
